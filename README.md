@@ -1,7 +1,7 @@
 # AC-DC-Converter
 A simple full-wave bridge rectifier circuit built in KiCad, converting AC input to a smoothed DC output with a power-indicator LED.
 
-
+https://github.com/Manideep136/AC-DC-Converter/blob/main/images/3d.png
 
 Overview
 
