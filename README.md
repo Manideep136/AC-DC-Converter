@@ -18,11 +18,11 @@ J1	Screw Terminal (2-pin)	AC input
 J2	Screw Terminal (2-pin)	DC output
 Schematic
 
-Show Image
+https://github.com/Manideep136/AC-DC-Converter/blob/main/images/Schematic.png
 
 PCB Layout
 
-Show Image
+https://github.com/Manideep136/AC-DC-Converter/blob/main/images/layout.png
 
 Files
 *.kicad_pro, *.kicad_sch, *.kicad_pcb — KiCad project, schematic, and PCB layout files
