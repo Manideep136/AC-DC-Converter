@@ -1,0 +1,11 @@
+Plotted to 'D:\kicad\Ac-Dc converter\Ac-Dc converter-F_Cu.gbr'.
+Plotted to 'D:\kicad\Ac-Dc converter\Ac-Dc converter-B_Cu.gbr'.
+Plotted to 'D:\kicad\Ac-Dc converter\Ac-Dc converter-F_Paste.gbr'.
+Plotted to 'D:\kicad\Ac-Dc converter\Ac-Dc converter-B_Paste.gbr'.
+Plotted to 'D:\kicad\Ac-Dc converter\Ac-Dc converter-F_Silkscreen.gbr'.
+Plotted to 'D:\kicad\Ac-Dc converter\Ac-Dc converter-B_Silkscreen.gbr'.
+Plotted to 'D:\kicad\Ac-Dc converter\Ac-Dc converter-F_Mask.gbr'.
+Plotted to 'D:\kicad\Ac-Dc converter\Ac-Dc converter-B_Mask.gbr'.
+Plotted to 'D:\kicad\Ac-Dc converter\Ac-Dc converter-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\kicad\Ac-Dc converter\Ac-Dc converter-job.gbrjob'.
+Info: Done.
